@@ -9,5 +9,5 @@ make
 To run the code, run the executable's name with the appropriate inputs. (Executable name is usually named after the project name)
 ```bash
 ./philo 5 800 200 200
-./Fdf test_maps/42.fdf
+./fdf test_maps/42.fdf
 ```
